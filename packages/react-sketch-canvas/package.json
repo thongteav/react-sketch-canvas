@@ -15,7 +15,7 @@
     "start": "yarn clean && microbundle watch --jsx React.createElement --globals react=React"
   },
   "dependencies": {
-    "immer": "^7.0.9",
+    "immer": "^8.0.1",
     "pepjs": "^0.5.2"
   },
   "peerDependencies": {
